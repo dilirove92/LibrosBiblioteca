@@ -1,0 +1,7 @@
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaNegocio\obj\Debug\CapaNegocio.pdb
