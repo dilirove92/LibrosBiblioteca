@@ -1,0 +1,29 @@
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.Form1.resources
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+H:\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+H:\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.Form1.resources
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\Biblioteca.CapaPresentacion.Properties.Resources.resources
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\Biblioteca.CapaPresentacion.Resultados.resources
+D:\Dayan\Academico\4A\CUARTO A\Lenguaje de Programación 2\SistemaDeLibrosBiclioteca\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Dayan\Academico\4A\CUARTO A\Lenguaje de Programación 2\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+D:\Dayan\Academico\4A\CUARTO A\Lenguaje de Programación 2\SistemaDeLibrosBiclioteca\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
