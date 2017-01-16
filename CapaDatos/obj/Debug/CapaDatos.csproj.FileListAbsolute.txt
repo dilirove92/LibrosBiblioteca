@@ -1,0 +1,5 @@
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Documents and Settings\USUARIO\Escritorio\Dayan\SistemaDeLibrosBiclioteca\CapaDatos\obj\Debug\CapaDatos.pdb
